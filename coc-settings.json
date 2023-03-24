@@ -1,0 +1,17 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "graphql"
+  ],
+  "tsserver.enableJavascript": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.banditEnabled": true,
+  "python.linting.pylintEnabled": false,
+  "typescript.suggest.autoImports": true
+}
